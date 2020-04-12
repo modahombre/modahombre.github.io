@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Básicos llenos de color: la nueva aplicación de Scotta1985 de la ropa diaria para el tiempo estival.
+title: titylo
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
