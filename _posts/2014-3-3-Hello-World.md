@@ -3,8 +3,8 @@ layout: post
 title: Básicos de Verano, la reinterpretación del color
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+<p>En estos instantes difíciles que nos encontramos pasado, el optimismo resulta ser una utilidad vigorosa para sobrellevar la cuarentena, y una manera de vivir con un ámbito positivo es por medio de su expresión en nuestros looks, por esto <strong>Scotta1985</strong> decidió llevar a cabo del color la máxima clave de sus prendas fundamentales para el moderno y práctico armario del hombre moderno.</p>
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+<p>La iniciativa de la marca <strong>se apoya en el match especial que tenemos la posibilidad de conseguir con una remera de un color impresionante y, a la vez, bermudas con estampados</strong> propios de la temporada, como flores hawaianas, frutas y otros fundamentos, para llevar a cabo de ésta la conjunción triunfante para andar en el hogar y para cuando la cuarentena concluya y poder gozar del sol.</p> <p>En cuando a la iniciativa más formal de la marca, se muestran sus tradicionales camisas de lino, camisetas y polos en algodón piqué que conviven con autenticos jerseys de punto fino o blazers de patrón relajado, <strong>adaptándose además a la esencia de las tonalidades neutras</strong> acompañados de colores claros y complementos en piel, que siempre brindan un aspecto de distinción a cualqueir look.</p> <p>Y para dejarnos con ganas de sol, arena y mar, la marca además nos da una línea de bañadores con estampados y colores por demás optimistas, con diseños en referencia al estilo surfero que morimos por mostrar en nuestra próxima fuga a la playa.</p> <p>Finalmente <strong>la recopilación de verano de Scotta1985</strong> es una enorme exhibe de que el color va a ser por bastante el personaje principal de todos nuestros looks.</p>   
