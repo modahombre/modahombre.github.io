@@ -3,7 +3,7 @@ layout: post
 title: Básicos llenos de color: la nueva aplicación de Scotta1985 de la ropa diaria para el tiempo estival
 ---
 
-En estos instantes difíciles que nos encontramos pasado, el optimismo resulta ser una utilidad vigorosa para sobrellevar la cuarentena, y una manera de vivir con un ámbito positivo es por medio de su expresión en nuestros looks, por esto <strong>Scotta1985</strong> decidió llevar...
+En estos instantes difíciles que nos encontramos pasado, el optimismo resulta ser una utilidad vigorosa para sobrellevar la cuarentena, y una manera de vivir con un...
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
