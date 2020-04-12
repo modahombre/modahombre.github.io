@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Funciona!
+title: Básicos llenos de color: la nueva aplicación de Scotta1985 de la ropa diaria para el tiempo estival
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+En estos instantes difíciles que nos encontramos pasado, el optimismo resulta ser una utilidad vigorosa para sobrellevar la cuarentena, y una manera de vivir con un ámbito positivo es por medio de su expresión en nuestros looks, por esto <strong>Scotta1985</strong> decidió llevar...
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
